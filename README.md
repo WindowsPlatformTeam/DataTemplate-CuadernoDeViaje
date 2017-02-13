@@ -4,4 +4,4 @@
 En este repositorio encontrará una POC de DataTemplate (Xaml).
 Como apoyo, podrá consultar el siguiente blog con una explicación más detallada para entender su funcionamiento:
 
-Blog Windows Platform Team en Geeks / DataTemplate / Cuaderno de viaje
+Blog Windows Platform Team en Geeks [DataTemplate/Cuaderno de viaje](http://geeks.ms/windowsplatform/2017/02/13/datatemplate-cuaderno-de-viaje/)
